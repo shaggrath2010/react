@@ -1,2 +1,2 @@
-# js_doodle_jump
-js_doodle_jump
+#React test
+React_test
